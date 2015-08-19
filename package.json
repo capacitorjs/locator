@@ -2,7 +2,7 @@
   "name": "capacitor-locator",
   "version": "0.1.0",
   "description": "A light-weight service locator for IoC in JavaScript",
-  "main": "src/locator.js",
+  "main": "lib/locator.js",
   "directories": {
     "test": "test"
   },
@@ -33,6 +33,6 @@
   "devDependencies": {
     "eslintrc": "git+https://github.com/capacitorjs/eslintrc.git#v1.0.0",
     "gulp": "^3.9.0",
-    "gulp-capacitorjs-common": "git+https://github.com/capacitorjs/gulp-capacitorjs-common.git#v0.1.1"
+    "gulp-capacitorjs-common": "git+https://github.com/capacitorjs/gulp-capacitorjs-common.git#v0.1.2"
   }
 }
